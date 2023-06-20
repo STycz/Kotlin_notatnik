@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="title_hint">Tytuł notatki</string>
+    <string name="content_hint">Opis notatki</string>
+    <string name="save_note">Zapisz</string>
+    <string name="search_hint">Wpisz nazwe notatki</string>
+    <string name="search">Szukaj</string>
+</resources>
